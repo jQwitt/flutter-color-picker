@@ -16,5 +16,5 @@ Once an emulation is (bottom right of VS Code) configured, click `Run & Debug`
 
 ### Resources 
 
-[Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+[Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)\
 [Install flutter on Mac](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)

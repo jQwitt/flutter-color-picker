@@ -1,6 +1,6 @@
 # ColorPicker
 
-A intro to the flutter environment.
+An intro to the flutter environment.
 
 ### How to run
 

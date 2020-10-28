@@ -1,16 +1,20 @@
-# colorPicker
+# ColorPicker
 
-A new Flutter project.
+A intro to the flutter environment.
 
-## Getting Started
+### How to run
 
-This project is a starting point for a Flutter application.
+Ensure the Flutter SDK is installed. [See instructions here](https://flutter.dev/docs/get-started/install).
+Ensure [XCode tools](https://apps.apple.com/us/app/xcode/id497799835) and [Android SDK](https://developer.android.com/studio) are installed. 
 
-A few resources to get you started if this is your first Flutter project:
+Modify environment path to point to the flutter installation. [See instructions here](https://flutter.dev/docs/get-started/install/macos#update-your-path).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Run `flutter doctor` to ensure setup is complete.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once an emulation is (bottom right of VS Code) configured, click `Run & Debug`
+
+
+### Resources 
+
+[Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+[Install flutter on Mac](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)

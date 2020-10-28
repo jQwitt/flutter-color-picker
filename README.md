@@ -11,7 +11,7 @@ Modify environment path to point to the flutter installation. [See instructions 
 
 Run `flutter doctor` to ensure setup is complete.
 
-Once an emulation is (bottom right of VS Code) configured, click `Run & Debug`
+Once an emulatior (bottom right of VS Code) is configured, click `Run & Debug`
 
 
 ### Resources 
